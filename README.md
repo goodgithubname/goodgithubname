@@ -16,9 +16,6 @@
 🌱 Currently Learning
 I'm currently diving into topics in machine learning and exploring the exciting field of cyber security, with a focus on penetration testing.
 
-![Jeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodgithubname&show_icons=true&theme=radical)
-
-
 <!--
 **goodgithubname/goodgithubname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
