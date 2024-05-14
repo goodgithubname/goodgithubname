@@ -1,4 +1,7 @@
-### Hi there 👋
+# Jeer 👋
+**`Developer`**
+
+👋 Hi, I'm John! I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. With a background in computer engineering, I enjoy tackling challenging problems and learning new technologies.
 
 <!--
 **goodgithubname/goodgithubname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
