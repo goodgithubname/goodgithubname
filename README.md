@@ -1,7 +1,17 @@
-# Jeer 👋
+# [Jeer] 👋
 **`Developer`**
 
-👋 Hi, I'm Jeer! I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. With a background in computer engineering, I enjoy tackling challenging problems and learning new technologies.
+👋 Hi, I'm Jeer! I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. With a background in computer engineering, I enjoy tackling challenging problems and learning new technologies. I currently work at Vajiravudh School, developing tools for internal use.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="25" height="25" />
+
+🚀 Skills
+Languages: JavaScript, Python, Java, C++
+Frameworks: React, Node.js, Django
+Tools: Git, Pandas, NumPy, Matplotlib, Seaborn, MySQL Workbench
+
+🌱 Currently Learning
+I'm currently diving into topics in machine learning and exploring the exciting field of cyber security, with a focus on penetration testing.
 
 <!--
 **goodgithubname/goodgithubname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
