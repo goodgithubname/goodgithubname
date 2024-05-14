@@ -3,12 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="30" height="30" /> Hi, I'm Jeer! I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. With a background in computer engineering, I enjoy tackling challenging problems and learning new technologies. I currently work at Vajiravudh School, developing tools for internal use.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="100" height="100" />
 
-<img src="https://raw.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25" height="25" />
-
-
-🚀 Skills
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Skills
 Languages: JavaScript, Python, Java, C++
 Frameworks: React, Node.js, Django
 Tools: Git, Pandas, NumPy, Matplotlib, Seaborn, MySQL Workbench
