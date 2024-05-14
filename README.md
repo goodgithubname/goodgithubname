@@ -5,6 +5,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="25" height="25" />
 
+<img src="https://raw.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25" height="25" />
+
+
 🚀 Skills
 Languages: JavaScript, Python, Java, C++
 Frameworks: React, Node.js, Django
