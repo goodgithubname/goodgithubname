@@ -6,9 +6,12 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="100" height="100" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Skills
-Languages: JavaScript, Python, Java, C++
-Frameworks: React, Node.js, Django
-Tools: Git, Pandas, NumPy, Matplotlib, Seaborn, MySQL Workbench
+- Languages
+  - JavaScript, Python, Java, C++
+- Frameworks
+  - React, Node.js, Django
+- Tools
+  - Git, Pandas, NumPy, Matplotlib, Seaborn, MySQL Workbench
 
 🌱 Currently Learning
 I'm currently diving into topics in machine learning and exploring the exciting field of cyber security, with a focus on penetration testing.
