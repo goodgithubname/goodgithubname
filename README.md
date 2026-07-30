@@ -13,9 +13,10 @@
 - **Tools**
   - Git, Pandas, NumPy, Matplotlib, Seaborn, MySQL Workbench
 
-🌱 Currently Learning
-I'm currently diving into topics in machine learning and exploring the exciting field of cyber security, with a focus on penetration testing.
+  ![Top Languages](https://vani-stats.vercel.app/api?username=goodgithubname&theme=tokyonight)
 
+🌱 Currently Learning
+I'm currently diving into topics in machine learning and exploring the exciting field of DevOps, with focus in automation.
 <!--
 **goodgithubname/goodgithubname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
