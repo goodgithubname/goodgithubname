@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" /> Skills
 - **Languages**
-  - JavaScript, Python, Java, C++
+  - JavaScript, Python, Java, C++, Go
 - **Frameworks**
   - React, Node.js, Django
 - **Tools**
